@@ -1,0 +1,19 @@
+{
+  "context": "server",
+  "identifier": "com.pa.quitch.qDelayedOrbitalTransports-dev",
+  "display_name": "Delayed Orbital Transports DEV",
+  "description": "Increases the delay before an orbital transport can move when it arrives at a new world. This is to stop Commander planet hopping.",
+  "author": "Quitch",
+  "version": "dev",
+  "build": "110069",
+  "date": "2018/09/29",
+  "signature": " ",
+  "forum": "https://forums.planetaryannihilation.com/threads/improving-ai-neural-net-weights.72938/",
+  "category": [
+    "gameplay",
+    "titans"
+  ],
+  "icon": "https://i.imgur.com/ftL6UMm.png",
+  "priority": 100,
+  "titansOnly": true
+}
