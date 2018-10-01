@@ -1,10 +1,10 @@
 {
   "context": "server",
-  "identifier": "com.pa.quitch.qDelayedOrbitalTransports-dev",
-  "display_name": "Delayed Orbital Transports DEV",
+  "identifier": "com.pa.quitch.qDelayedOrbitalTransports",
+  "display_name": "Delayed Orbital Transports",
   "description": "Increases the delay before an orbital transport can move when it arrives at a new world. This is to stop Commander planet hopping. Works with Legion Expansion.",
   "author": "Quitch",
-  "version": "dev",
+  "version": "1.0",
   "build": "110069",
   "date": "2018/09/29",
   "signature": " ",
